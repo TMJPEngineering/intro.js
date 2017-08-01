@@ -1,7 +1,7 @@
 {
-  "name": "intro.js",
-  "description": "Better introductions for websites and features with a step-by-step guide for your projects",
-  "version": "2.6.0",
+  "name": "tmj-introjs",
+  "description": "Modified IntroJS",
+  "version": "1.0.0",
   "author": "Afshin Mehrabani <afshin.meh@gmail.com>",
   "homepage": "http://introjs.com",
   "repository": {
